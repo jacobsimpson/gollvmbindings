@@ -3,7 +3,8 @@
 The purpose of this project is to do the simplest program that links to the
 LLVM library.
 
-The build of the LLVM library and bindings are outside of this project.
+The build of the LLVM library and bindings are outside of this project. See my
+[LLVM build instructions](../BUILD-LLVM-Library.md) for how I got it working.
 
 Key points in this project are:
 
